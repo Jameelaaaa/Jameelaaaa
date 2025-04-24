@@ -7,7 +7,7 @@
 </div>
 
 ## 🔥About Me:
-- 🗿 I'm a programmer passionate about building impactful solutions  
+- 💕 I'm a full-stack developer and building impactful solutions  
 - 😊 Pronouns: She/Her  
 - 🌱 Currently mastering Node.js and Express.js  
 - 💻 Diving deep into Data Structures & Algorithms  
