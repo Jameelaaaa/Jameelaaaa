@@ -12,9 +12,10 @@
 - 🌱 Currently mastering Node.js and Express.js  
 - 💻 Diving deep into Data Structures & Algorithms  
 - 🚀 Looking to collaborate on web development projects  
-- 💡 Interested in full-stack development (especially Backend)  
+- 💡 Interested in full-stack development
 - 🎯 Always eager to solve problems  
-- ⚡ <b>Fun fact:</b> In a parallel universe, I test in production. In this one, I'm the developer who writes tests before the actual code! 🎭
+- ⚡ <b>Fun fact:</b> I code like a poet, crafting lines so beautiful even my errors rhyme. 🌟
+
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -45,6 +46,8 @@
 <img width="5" />
 <a href="https://www.python.org/doc/"><img src="https://skillicons.dev/icons?i=python" height="34" alt="python logo"  /></a>
 <img width="5" />
+<a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" height="34" alt="java logo"  /></a>
+<img width="5" />
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="34" alt="react logo"  /></a>
 <img width="5" />
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap" height="34" alt="bootstrap logo"  /></a>
@@ -54,6 +57,8 @@
 <a href="https://nodejs.org/api/all.html"><img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="node logo"  /></a>
 <img width="5" />
 <a href="https://expressjs.com/en/guide/routing.html"><img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo"  /></a>
+<img width="5" />
+<a href="https://help.figma.com/hc/en-us"><img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma logo"  /></a>
 <img width="5" />
 <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  /></a>
 <img width="5" />
@@ -77,8 +82,9 @@
 <div align="left">
 
 ## 🤝Connect with Me:
-<a href=""><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40" alt="linkedin logo"  /></a>
-<a href=""><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" height="40" alt="discord logo"  /></a>
+<a href="https://www.linkedin.com/in/jameela-banu-184a6028b/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40" alt="linkedin logo"  /></a>
+<a href="https://discord.com/users/1223194933444350063"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" height="40" alt="discord logo"  /></a>
+<a href=""><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="40" alt="discord logo"  /></a>
 </div>
 
 <div align="center">
@@ -97,7 +103,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<!-- ## <div align="left">🐍Contributions</div>
+## <div align="left">🐍Contributions</div>
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/jameelaaaa/jameelaaaa/output/snake.svg" alt="Snake animation" />
@@ -105,7 +111,7 @@
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div> -->
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
