@@ -83,8 +83,9 @@
 
 ## 🤝Connect with Me:
 <a href="https://www.linkedin.com/in/jameela-banu-184a6028b/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40" alt="linkedin logo"  /></a>
+<a href="mailto:jameelaa2303@gmail.com"><img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="40" alt="gmail logo" /></a>
 <a href="https://discord.com/users/1223194933444350063"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" height="40" alt="discord logo"  /></a>
-<a href=""><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="40" alt="discord logo"  /></a>
+<a href=""><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="40" alt="instagram logo"  /></a>
 </div>
 
 <div align="center">
