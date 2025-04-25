@@ -46,7 +46,9 @@
 <img width="5" />
 <a href="https://www.python.org/doc/"><img src="https://skillicons.dev/icons?i=python" height="34" alt="python logo"  /></a>
 <img width="5" />
-<a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" height="34" alt="java logo"  /></a>
+<a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c" height="34" alt="c logo"  /></a>
+<img width="5" />
+<a href="https://docs.oracle.com/en/java"><img src="https://skillicons.dev/icons?i=java" height="34" alt="java logo"  /></a>
 <img width="5" />
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="34" alt="react logo"  /></a>
 <img width="5" />
