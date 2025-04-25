@@ -94,7 +94,7 @@
 
 ###
 
-## <div align="left">📈Activity Graph</div>
+## <div align="left">📈Activity Graph:</div>
 
 <div align="center">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jameelaaaa&theme=react-dark&color=008080&line=008080&point=008080&hide_border=true" />
@@ -104,7 +104,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="left">🐍Contributions</div>
+## <div align="left">🐍Contributions:</div>
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/jameelaaaa/jameelaaaa/output/snake.svg" alt="Snake animation" />
