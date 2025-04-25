@@ -25,8 +25,8 @@
 
 ## 📊My Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jameelaaaa&show_icons=true&theme=tokyonight&title_color=008080&icon_color=008080&hide_border=true&count_private=true" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameelaaaa&theme=tokyonight&title_color=008080&hide_border=true&layout=compact" height="200" width="400" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jameelaaaa&show_icons=true&theme=tokyonight&title_color=008080&icon_color=008080&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsahrasrhmiat&theme=tokyonight&title_color=008080&hide_border=true&layout=compact" height="150" alt="Top Languages"/>
 </div>
 
 <div align="center">
