@@ -10,7 +10,7 @@
 - 💕 I'm a full-stack developer and building impactful solutions  
 - 😊 Pronouns: She/Her
 - 🥰 He calls me Jerry!
-- 🌱 Currently mastering Node.js and Express.js  
+- 🌱 Currently mastering React and AI/ML
 - 💻 Diving deep into Data Structures & Algorithms  
 - 🚀 Looking to collaborate on web development projects  
 - 💡 Interested in full-stack development
