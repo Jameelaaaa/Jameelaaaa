@@ -8,12 +8,13 @@
 
 ## 🔥About Me:
 - 💕 I'm a full-stack developer and building impactful solutions  
-- 😊 Pronouns: She/Her  
+- 😊 Pronouns: She/Her
+- 🥰 He calls me Jerry!
 - 🌱 Currently mastering Node.js and Express.js  
 - 💻 Diving deep into Data Structures & Algorithms  
 - 🚀 Looking to collaborate on web development projects  
 - 💡 Interested in full-stack development
-- 🎯 Always eager to solve problems  
+- 🎯 Always eager to solve problems
 - ⚡ <b>Fun fact:</b> I code like a poet, crafting lines so beautiful even my errors rhyme. 🌟
 
 
@@ -24,9 +25,13 @@
 ###
 
 ## 📊My Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jameelaaaa&show_icons=true&theme=tokyonight&title_color=008080&icon_color=008080&hide_border=true&count_private=true" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameelaaaa&theme=tokyonight&title_color=008080&hide_border=true&layout=compact" height="175" alt="Top Languages"/>
+<div align="left">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=jameelaaaa&show_icons=true&theme=tokyonight&title_color=008080&icon_color=008080&hide_border=true&count_private=true" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameelaaaa&theme=tokyonight&title_color=008080&hide_border=true&layout=compact" height="175" alt="Top Languages"/> -->
+  <img src="https://ghstats.dev/api/card?username=jameelaaaa" alt="GitHub Stats Card" />
+  <div>
+    <img src="https://ghstats.dev/api/langs?username=jameelaaaa" alt="Top Languages" />
+  </div>
 </div>
 
 <div align="center">
